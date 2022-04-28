@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iAmKabiru
+- 👋 Hi, I’m Kabiru Abdulhamid
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning DevSecOps
 - 💞️ I’m looking to collaborate on Software development 
