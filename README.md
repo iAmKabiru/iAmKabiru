@@ -12,7 +12,7 @@ I'm a Senior Software Engineer passionate about building intelligent, scalable s
 
 ## 🧠 Skills
 
-- **Languages**: Python, JavaScript  
+- **Languages**: Python, Golang, JavaScript  
 - **Frameworks & Libraries**: Django, Flask, FastAPI, Pandas, NumPy, PyTorch, Scikit-learn, Keras, NLTK  
 - **Databases**: PostgreSQL, MongoDB, Redis  
 - **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD  
